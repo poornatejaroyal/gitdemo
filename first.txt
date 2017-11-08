@@ -1,2 +1,2 @@
 this is the first line in first.txt-1
-poorna teja
+this is the second line 
